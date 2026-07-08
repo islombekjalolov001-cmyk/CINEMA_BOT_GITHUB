@@ -1,0 +1,457 @@
+2026-07-07 21:26:36 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 21:26:36 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 21:26:37 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 21:26:48 | INFO     | aiogram.event | Update id=905840200 is handled. Duration 751 ms by bot id=8737871300
+2026-07-07 21:27:01 | INFO     | aiogram.event | Update id=905840201 is handled. Duration 193 ms by bot id=8737871300
+2026-07-07 21:27:07 | INFO     | aiogram.event | Update id=905840202 is handled. Duration 201 ms by bot id=8737871300
+2026-07-07 21:27:12 | INFO     | aiogram.event | Update id=905840203 is handled. Duration 276 ms by bot id=8737871300
+2026-07-07 21:27:37 | INFO     | aiogram.event | Update id=905840204 is handled. Duration 215 ms by bot id=8737871300
+2026-07-07 21:27:46 | INFO     | aiogram.event | Update id=905840205 is handled. Duration 266 ms by bot id=8737871300
+2026-07-07 21:27:55 | INFO     | aiogram.event | Update id=905840206 is handled. Duration 206 ms by bot id=8737871300
+2026-07-07 21:29:03 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-07-07 21:29:03 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 21:29:20 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8737871300)
+2026-07-07 21:29:42 | INFO     | aiogram.event | Update id=905840207 is handled. Duration 574 ms by bot id=8737871300
+2026-07-07 21:30:15 | INFO     | aiogram.event | Update id=905840208 is handled. Duration 192 ms by bot id=8737871300
+2026-07-07 21:30:31 | INFO     | aiogram.event | Update id=905840209 is handled. Duration 1057 ms by bot id=8737871300
+2026-07-07 21:31:31 | INFO     | aiogram.event | Update id=905840210 is handled. Duration 205 ms by bot id=8737871300
+2026-07-07 21:31:43 | INFO     | aiogram.event | Update id=905840211 is handled. Duration 184 ms by bot id=8737871300
+2026-07-07 21:31:54 | INFO     | aiogram.event | Update id=905840212 is handled. Duration 467 ms by bot id=8737871300
+2026-07-07 21:35:31 | INFO     | aiogram.event | Update id=905840213 is handled. Duration 448 ms by bot id=8737871300
+2026-07-07 21:35:33 | INFO     | aiogram.event | Update id=905840214 is handled. Duration 490 ms by bot id=8737871300
+2026-07-07 21:35:41 | INFO     | aiogram.event | Update id=905840215 is handled. Duration 423 ms by bot id=8737871300
+2026-07-07 21:35:44 | INFO     | aiogram.event | Update id=905840216 is handled. Duration 497 ms by bot id=8737871300
+2026-07-07 21:36:04 | INFO     | aiogram.event | Update id=905840217 is handled. Duration 448 ms by bot id=8737871300
+2026-07-07 21:36:13 | INFO     | aiogram.event | Update id=905840218 is handled. Duration 191 ms by bot id=8737871300
+2026-07-07 21:36:22 | INFO     | aiogram.event | Update id=905840219 is handled. Duration 352 ms by bot id=8737871300
+2026-07-07 21:36:26 | INFO     | aiogram.event | Update id=905840220 is handled. Duration 166 ms by bot id=8737871300
+2026-07-07 21:36:29 | INFO     | aiogram.event | Update id=905840221 is handled. Duration 175 ms by bot id=8737871300
+2026-07-07 21:36:33 | INFO     | aiogram.event | Update id=905840222 is handled. Duration 162 ms by bot id=8737871300
+2026-07-07 21:36:37 | INFO     | aiogram.event | Update id=905840223 is handled. Duration 182 ms by bot id=8737871300
+2026-07-07 21:36:39 | INFO     | aiogram.event | Update id=905840224 is handled. Duration 167 ms by bot id=8737871300
+2026-07-07 21:36:40 | INFO     | aiogram.event | Update id=905840225 is handled. Duration 184 ms by bot id=8737871300
+2026-07-07 21:36:41 | INFO     | aiogram.event | Update id=905840226 is handled. Duration 175 ms by bot id=8737871300
+2026-07-07 21:36:43 | INFO     | aiogram.event | Update id=905840227 is handled. Duration 178 ms by bot id=8737871300
+2026-07-07 21:36:46 | INFO     | aiogram.event | Update id=905840228 is handled. Duration 303 ms by bot id=8737871300
+2026-07-07 21:36:49 | INFO     | aiogram.event | Update id=905840229 is handled. Duration 188 ms by bot id=8737871300
+2026-07-07 21:36:53 | INFO     | aiogram.event | Update id=905840230 is handled. Duration 174 ms by bot id=8737871300
+2026-07-07 21:36:54 | INFO     | aiogram.event | Update id=905840231 is handled. Duration 189 ms by bot id=8737871300
+2026-07-07 21:36:56 | INFO     | aiogram.event | Update id=905840232 is handled. Duration 318 ms by bot id=8737871300
+2026-07-07 21:36:58 | INFO     | aiogram.event | Update id=905840233 is handled. Duration 342 ms by bot id=8737871300
+2026-07-07 21:37:01 | INFO     | aiogram.event | Update id=905840234 is handled. Duration 169 ms by bot id=8737871300
+2026-07-07 21:37:03 | INFO     | aiogram.event | Update id=905840235 is handled. Duration 190 ms by bot id=8737871300
+2026-07-07 21:37:08 | INFO     | aiogram.event | Update id=905840236 is handled. Duration 330 ms by bot id=8737871300
+2026-07-07 21:37:14 | INFO     | aiogram.event | Update id=905840237 is handled. Duration 190 ms by bot id=8737871300
+2026-07-07 21:37:16 | INFO     | aiogram.event | Update id=905840238 is handled. Duration 359 ms by bot id=8737871300
+2026-07-07 21:37:22 | INFO     | aiogram.event | Update id=905840239 is handled. Duration 335 ms by bot id=8737871300
+2026-07-07 21:37:23 | INFO     | aiogram.event | Update id=905840240 is handled. Duration 373 ms by bot id=8737871300
+2026-07-07 21:37:25 | INFO     | aiogram.event | Update id=905840241 is handled. Duration 511 ms by bot id=8737871300
+2026-07-07 21:37:29 | INFO     | aiogram.event | Update id=905840242 is handled. Duration 187 ms by bot id=8737871300
+2026-07-07 21:37:30 | INFO     | aiogram.event | Update id=905840243 is not handled. Duration 4 ms by bot id=8737871300
+2026-07-07 21:37:32 | INFO     | aiogram.event | Update id=905840244 is handled. Duration 502 ms by bot id=8737871300
+2026-07-07 21:37:35 | INFO     | aiogram.event | Update id=905840245 is handled. Duration 285 ms by bot id=8737871300
+2026-07-07 21:37:36 | INFO     | aiogram.event | Update id=905840246 is handled. Duration 159 ms by bot id=8737871300
+2026-07-07 21:37:40 | INFO     | aiogram.event | Update id=905840247 is handled. Duration 423 ms by bot id=8737871300
+2026-07-07 21:37:42 | INFO     | aiogram.event | Update id=905840248 is handled. Duration 442 ms by bot id=8737871300
+2026-07-07 21:37:48 | INFO     | aiogram.event | Update id=905840249 is handled. Duration 271 ms by bot id=8737871300
+2026-07-07 21:37:51 | INFO     | aiogram.event | Update id=905840250 is handled. Duration 314 ms by bot id=8737871300
+2026-07-07 21:37:53 | INFO     | aiogram.event | Update id=905840251 is handled. Duration 565 ms by bot id=8737871300
+2026-07-07 21:37:56 | INFO     | aiogram.event | Update id=905840252 is handled. Duration 167 ms by bot id=8737871300
+2026-07-07 21:38:00 | INFO     | aiogram.event | Update id=905840253 is handled. Duration 396 ms by bot id=8737871300
+2026-07-07 21:38:01 | INFO     | aiogram.event | Update id=905840254 is handled. Duration 512 ms by bot id=8737871300
+2026-07-07 21:41:47 | INFO     | aiogram.event | Update id=905840255 is handled. Duration 423 ms by bot id=8737871300
+2026-07-07 21:42:05 | INFO     | aiogram.event | Update id=905840256 is handled. Duration 192 ms by bot id=8737871300
+2026-07-07 21:42:13 | INFO     | aiogram.event | Update id=905840257 is handled. Duration 174 ms by bot id=8737871300
+2026-07-07 21:42:17 | INFO     | aiogram.event | Update id=905840258 is handled. Duration 189 ms by bot id=8737871300
+2026-07-07 21:42:23 | INFO     | aiogram.event | Update id=905840259 is handled. Duration 269 ms by bot id=8737871300
+2026-07-07 21:42:29 | INFO     | aiogram.event | Update id=905840260 is handled. Duration 208 ms by bot id=8737871300
+2026-07-07 21:42:31 | INFO     | aiogram.event | Update id=905840261 is handled. Duration 197 ms by bot id=8737871300
+2026-07-07 21:42:34 | INFO     | aiogram.event | Update id=905840262 is handled. Duration 197 ms by bot id=8737871300
+2026-07-07 21:44:30 | INFO     | aiogram.event | Update id=905840263 is handled. Duration 217 ms by bot id=8737871300
+2026-07-07 21:44:33 | INFO     | aiogram.event | Update id=905840264 is handled. Duration 520 ms by bot id=8737871300
+2026-07-07 21:44:39 | INFO     | aiogram.event | Update id=905840265 is handled. Duration 182 ms by bot id=8737871300
+2026-07-07 21:44:43 | INFO     | aiogram.event | Update id=905840266 is handled. Duration 202 ms by bot id=8737871300
+2026-07-07 21:44:51 | INFO     | aiogram.event | Update id=905840267 is handled. Duration 215 ms by bot id=8737871300
+2026-07-07 21:44:54 | INFO     | aiogram.event | Update id=905840268 is not handled. Duration 8 ms by bot id=8737871300
+2026-07-07 21:46:30 | INFO     | aiogram.event | Update id=905840269 is handled. Duration 161 ms by bot id=8737871300
+2026-07-07 21:52:53 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-07 21:52:53 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-07 21:52:53 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 21:52:53 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-07 21:52:53 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 21:52:53 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-07 21:53:02 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 21:53:02 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 21:53:02 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 21:53:34 | INFO     | aiogram.event | Update id=905840270 is handled. Duration 663 ms by bot id=8737871300
+2026-07-07 21:53:39 | INFO     | aiogram.event | Update id=905840271 is handled. Duration 192 ms by bot id=8737871300
+2026-07-07 21:53:41 | INFO     | aiogram.event | Update id=905840272 is handled. Duration 213 ms by bot id=8737871300
+2026-07-07 21:53:42 | INFO     | aiogram.event | Update id=905840273 is handled. Duration 206 ms by bot id=8737871300
+2026-07-07 21:53:43 | INFO     | aiogram.event | Update id=905840274 is handled. Duration 181 ms by bot id=8737871300
+2026-07-07 21:53:47 | INFO     | aiogram.event | Update id=905840275 is handled. Duration 209 ms by bot id=8737871300
+2026-07-07 21:53:52 | INFO     | aiogram.event | Update id=905840276 is handled. Duration 193 ms by bot id=8737871300
+2026-07-07 21:53:54 | INFO     | aiogram.event | Update id=905840277 is handled. Duration 227 ms by bot id=8737871300
+2026-07-07 21:56:00 | INFO     | aiogram.event | Update id=905840278 is handled. Duration 371 ms by bot id=8737871300
+2026-07-07 21:56:02 | INFO     | aiogram.event | Update id=905840279 is handled. Duration 225 ms by bot id=8737871300
+2026-07-07 21:56:17 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 21:56:17 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 21:56:17 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 21:56:18 | INFO     | aiogram.event | Update id=905840281 is not handled. Duration 5 ms by bot id=8737871300
+2026-07-07 21:56:22 | INFO     | aiogram.event | Update id=905840282 is handled. Duration 604 ms by bot id=8737871300
+2026-07-07 21:56:24 | INFO     | aiogram.event | Update id=905840283 is handled. Duration 200 ms by bot id=8737871300
+2026-07-07 21:56:26 | INFO     | aiogram.event | Update id=905840284 is handled. Duration 341 ms by bot id=8737871300
+2026-07-07 21:56:27 | INFO     | aiogram.event | Update id=905840285 is handled. Duration 178 ms by bot id=8737871300
+2026-07-07 21:56:28 | INFO     | aiogram.event | Update id=905840286 is handled. Duration 302 ms by bot id=8737871300
+2026-07-07 21:56:29 | INFO     | aiogram.event | Update id=905840287 is handled. Duration 227 ms by bot id=8737871300
+2026-07-07 21:56:33 | INFO     | aiogram.event | Update id=905840288 is handled. Duration 194 ms by bot id=8737871300
+2026-07-07 21:56:34 | INFO     | aiogram.event | Update id=905840289 is handled. Duration 210 ms by bot id=8737871300
+2026-07-07 21:56:35 | INFO     | aiogram.event | Update id=905840290 is handled. Duration 604 ms by bot id=8737871300
+2026-07-07 21:56:35 | INFO     | aiogram.event | Update id=905840291 is handled. Duration 187 ms by bot id=8737871300
+2026-07-07 21:56:36 | INFO     | aiogram.event | Update id=905840292 is handled. Duration 211 ms by bot id=8737871300
+2026-07-07 21:58:59 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-07 21:58:59 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-07 21:58:59 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 21:58:59 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-07 21:58:59 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 21:58:59 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-07 21:59:13 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 21:59:13 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 21:59:13 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 21:59:18 | INFO     | aiogram.event | Update id=905840293 is handled. Duration 575 ms by bot id=8737871300
+2026-07-07 21:59:20 | INFO     | aiogram.event | Update id=905840294 is handled. Duration 184 ms by bot id=8737871300
+2026-07-07 21:59:22 | INFO     | aiogram.event | Update id=905840295 is handled. Duration 173 ms by bot id=8737871300
+2026-07-07 21:59:24 | INFO     | aiogram.event | Update id=905840296 is handled. Duration 196 ms by bot id=8737871300
+2026-07-07 21:59:25 | INFO     | aiogram.event | Update id=905840297 is handled. Duration 200 ms by bot id=8737871300
+2026-07-07 21:59:27 | INFO     | aiogram.event | Update id=905840298 is handled. Duration 454 ms by bot id=8737871300
+2026-07-07 21:59:34 | INFO     | aiogram.event | Update id=905840299 is handled. Duration 363 ms by bot id=8737871300
+2026-07-07 21:59:38 | INFO     | aiogram.event | Update id=905840300 is handled. Duration 385 ms by bot id=8737871300
+2026-07-07 21:59:39 | INFO     | aiogram.event | Update id=905840301 is handled. Duration 537 ms by bot id=8737871300
+2026-07-07 21:59:45 | INFO     | aiogram.event | Update id=905840302 is handled. Duration 488 ms by bot id=8737871300
+2026-07-07 21:59:49 | INFO     | aiogram.event | Update id=905840303 is handled. Duration 452 ms by bot id=8737871300
+2026-07-07 21:59:55 | INFO     | aiogram.event | Update id=905840304 is handled. Duration 382 ms by bot id=8737871300
+2026-07-07 21:59:58 | INFO     | aiogram.event | Update id=905840305 is handled. Duration 372 ms by bot id=8737871300
+2026-07-07 22:00:00 | INFO     | aiogram.event | Update id=905840306 is handled. Duration 186 ms by bot id=8737871300
+2026-07-07 22:00:03 | INFO     | aiogram.event | Update id=905840307 is handled. Duration 173 ms by bot id=8737871300
+2026-07-07 22:00:07 | INFO     | aiogram.event | Update id=905840308 is handled. Duration 373 ms by bot id=8737871300
+2026-07-07 22:00:08 | INFO     | aiogram.event | Update id=905840309 is handled. Duration 177 ms by bot id=8737871300
+2026-07-07 22:00:11 | INFO     | aiogram.event | Update id=905840310 is handled. Duration 376 ms by bot id=8737871300
+2026-07-07 22:00:14 | INFO     | aiogram.event | Update id=905840311 is handled. Duration 196 ms by bot id=8737871300
+2026-07-07 22:00:17 | INFO     | aiogram.event | Update id=905840312 is handled. Duration 485 ms by bot id=8737871300
+2026-07-07 22:02:40 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-07 22:02:40 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-07 22:02:40 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 22:02:41 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-07 22:02:41 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:02:41 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-07 22:02:56 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 22:02:56 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 22:02:56 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:03:34 | INFO     | aiogram.event | Update id=905840313 is handled. Duration 692 ms by bot id=8737871300
+2026-07-07 22:03:36 | INFO     | aiogram.event | Update id=905840314 is handled. Duration 183 ms by bot id=8737871300
+2026-07-07 22:03:37 | INFO     | aiogram.event | Update id=905840315 is handled. Duration 221 ms by bot id=8737871300
+2026-07-07 22:03:39 | INFO     | aiogram.event | Update id=905840316 is handled. Duration 223 ms by bot id=8737871300
+2026-07-07 22:03:41 | INFO     | aiogram.event | Update id=905840317 is handled. Duration 507 ms by bot id=8737871300
+2026-07-07 22:03:44 | INFO     | aiogram.event | Update id=905840318 is handled. Duration 232 ms by bot id=8737871300
+2026-07-07 22:03:46 | INFO     | aiogram.event | Update id=905840319 is handled. Duration 574 ms by bot id=8737871300
+2026-07-07 22:03:47 | INFO     | aiogram.event | Update id=905840320 is handled. Duration 415 ms by bot id=8737871300
+2026-07-07 22:03:49 | INFO     | aiogram.event | Update id=905840321 is handled. Duration 178 ms by bot id=8737871300
+2026-07-07 22:05:22 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-07 22:05:22 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-07 22:05:22 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 22:05:23 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-07 22:05:23 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:05:23 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-07 22:05:35 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 22:05:35 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 22:05:35 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:06:13 | INFO     | aiogram.event | Update id=905840322 is handled. Duration 466 ms by bot id=8737871300
+2026-07-07 22:06:15 | INFO     | aiogram.event | Update id=905840323 is handled. Duration 520 ms by bot id=8737871300
+2026-07-07 22:10:18 | INFO     | aiogram.event | Update id=905840324 is handled. Duration 234 ms by bot id=8737871300
+2026-07-07 22:10:21 | INFO     | aiogram.event | Update id=905840325 is handled. Duration 207 ms by bot id=8737871300
+2026-07-07 22:15:05 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-07 22:15:05 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-07 22:15:05 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 22:15:05 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-07 22:15:05 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:15:05 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-07 22:15:16 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 22:15:16 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 22:15:16 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:15:56 | INFO     | aiogram.event | Update id=905840326 is handled. Duration 695 ms by bot id=8737871300
+2026-07-07 22:16:50 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-07 22:16:50 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-07 22:16:50 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 22:16:50 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-07 22:16:50 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:16:50 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-07 22:16:58 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-07 22:16:58 | INFO     | aiogram.dispatcher | Start polling
+2026-07-07 22:16:58 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-07 22:17:04 | INFO     | aiogram.event | Update id=905840327 is handled. Duration 683 ms by bot id=8737871300
+2026-07-07 23:25:11 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-07-07 23:25:11 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 23:25:23 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8737871300)
+2026-07-07 23:32:50 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-07-07 23:32:50 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 23:33:02 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8737871300)
+2026-07-07 23:38:43 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно
+2026-07-07 23:38:43 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-07 23:38:54 | INFO     | aiogram.dispatcher | Connection established (tryings = 1, bot id = 8737871300)
+2026-07-08 13:47:41 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-08 13:47:41 | INFO     | aiogram.dispatcher | Start polling
+2026-07-08 13:47:41 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-08 13:47:49 | INFO     | aiogram.event | Update id=905840328 is handled. Duration 733 ms by bot id=8737871300
+2026-07-08 13:47:58 | INFO     | aiogram.event | Update id=905840329 is handled. Duration 226 ms by bot id=8737871300
+2026-07-08 13:48:00 | INFO     | aiogram.event | Update id=905840330 is handled. Duration 293 ms by bot id=8737871300
+2026-07-08 13:48:02 | INFO     | aiogram.event | Update id=905840331 is handled. Duration 258 ms by bot id=8737871300
+2026-07-08 13:48:04 | INFO     | aiogram.event | Update id=905840332 is handled. Duration 516 ms by bot id=8737871300
+2026-07-08 13:48:06 | INFO     | aiogram.event | Update id=905840333 is handled. Duration 202 ms by bot id=8737871300
+2026-07-08 13:48:12 | INFO     | aiogram.event | Update id=905840334 is handled. Duration 593 ms by bot id=8737871300
+2026-07-08 13:48:14 | INFO     | aiogram.event | Update id=905840335 is handled. Duration 262 ms by bot id=8737871300
+2026-07-08 13:48:16 | INFO     | aiogram.event | Update id=905840336 is handled. Duration 194 ms by bot id=8737871300
+2026-07-08 13:48:47 | INFO     | aiogram.event | Update id=905840337 is handled. Duration 230 ms by bot id=8737871300
+2026-07-08 13:48:49 | INFO     | aiogram.event | Update id=905840338 is handled. Duration 207 ms by bot id=8737871300
+2026-07-08 13:48:52 | INFO     | aiogram.event | Update id=905840339 is handled. Duration 376 ms by bot id=8737871300
+2026-07-08 13:48:54 | INFO     | aiogram.event | Update id=905840340 is handled. Duration 366 ms by bot id=8737871300
+2026-07-08 13:49:10 | INFO     | aiogram.event | Update id=905840341 is handled. Duration 288 ms by bot id=8737871300
+2026-07-08 14:04:17 | INFO     | aiogram.dispatcher | Polling stopped
+2026-07-08 14:04:17 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-07-08 14:04:17 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8737871300)
+2026-07-08 14:04:17 | INFO     | __main__ | Bot to'xtatildi.
+2026-07-08 14:04:17 | INFO     | aiogram.dispatcher | Polling stopped for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-08 14:04:17 | INFO     | __main__ | Bot foydalanuvchi tomonidan to'xtatildi.
+2026-07-08 14:04:24 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-08 14:04:24 | INFO     | aiogram.dispatcher | Start polling
+2026-07-08 14:04:24 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-08 14:04:40 | INFO     | aiogram.event | Update id=905840342 is handled. Duration 735 ms by bot id=8737871300
+2026-07-08 14:04:59 | INFO     | aiogram.event | Update id=905840343 is handled. Duration 382 ms by bot id=8737871300
+2026-07-08 14:05:05 | INFO     | aiogram.event | Update id=905840344 is handled. Duration 159 ms by bot id=8737871300
+2026-07-08 14:05:09 | INFO     | aiogram.event | Update id=905840345 is handled. Duration 188 ms by bot id=8737871300
+2026-07-08 14:05:16 | INFO     | aiogram.event | Update id=905840346 is handled. Duration 329 ms by bot id=8737871300
+2026-07-08 14:05:25 | INFO     | aiogram.event | Update id=905840347 is handled. Duration 187 ms by bot id=8737871300
+2026-07-08 14:05:30 | INFO     | aiogram.event | Update id=905840348 is handled. Duration 318 ms by bot id=8737871300
+2026-07-08 14:05:39 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840349 message=Message(message_id=1287, date=datetime.datetime(2026, 7, 8, 9, 5, 39, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:39 | INFO     | aiogram.event | Update id=905840349 is handled. Duration 46 ms by bot id=8737871300
+2026-07-08 14:05:41 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840350 message=Message(message_id=1288, date=datetime.datetime(2026, 7, 8, 9, 5, 41, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:41 | INFO     | aiogram.event | Update id=905840350 is handled. Duration 7 ms by bot id=8737871300
+2026-07-08 14:05:42 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840351 message=Message(message_id=1289, date=datetime.datetime(2026, 7, 8, 9, 5, 42, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:42 | INFO     | aiogram.event | Update id=905840351 is handled. Duration 5 ms by bot id=8737871300
+2026-07-08 14:05:43 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840352 message=Message(message_id=1290, date=datetime.datetime(2026, 7, 8, 9, 5, 43, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:43 | INFO     | aiogram.event | Update id=905840352 is handled. Duration 11 ms by bot id=8737871300
+2026-07-08 14:05:43 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840353 message=Message(message_id=1291, date=datetime.datetime(2026, 7, 8, 9, 5, 44, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:43 | INFO     | aiogram.event | Update id=905840353 is handled. Duration 8 ms by bot id=8737871300
+2026-07-08 14:05:44 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840354 message=Message(message_id=1292, date=datetime.datetime(2026, 7, 8, 9, 5, 44, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:44 | INFO     | aiogram.event | Update id=905840354 is handled. Duration 9 ms by bot id=8737871300
+2026-07-08 14:05:45 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840355 message=Message(message_id=1293, date=datetime.datetime(2026, 7, 8, 9, 5, 45, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:45 | INFO     | aiogram.event | Update id=905840355 is handled. Duration 4 ms by bot id=8737871300
+2026-07-08 14:05:45 | ERROR    | __main__ | Update ishlov berishda xatolik: 'Update' object has no attribute 'answer' | update=update_id=905840356 message=Message(message_id=1294, date=datetime.datetime(2026, 7, 8, 9, 5, 45, tzinfo=TzInfo(UTC)), chat=Chat(id=5041903465, type='private', title=None, username='maftunaaa_012', first_name='Maftuna', last_name=None, is_forum=None, is_direct_messages=None, accent_color_id=None, active_usernames=None, available_reactions=None, background_custom_emoji_id=None, bio=None, birthdate=None, business_intro=None, business_location=None, business_opening_hours=None, can_set_sticker_set=None, custom_emoji_sticker_set_name=None, description=None, emoji_status_custom_emoji_id=None, emoji_status_expiration_date=None, has_aggressive_anti_spam_enabled=None, has_hidden_members=None, has_private_forwards=None, has_protected_content=None, has_restricted_voice_and_video_messages=None, has_visible_history=None, invite_link=None, join_by_request=None, join_to_send_messages=None, linked_chat_id=None, location=None, message_auto_delete_time=None, permissions=None, personal_chat=None, photo=None, pinned_message=None, profile_accent_color_id=None, profile_background_custom_emoji_id=None, slow_mode_delay=None, sticker_set_name=None, unrestrict_boost_count=None), message_thread_id=None, direct_messages_topic=None, from_user=User(id=5041903465, is_bot=False, first_name='Maftuna', last_name=None, username='maftunaaa_012', language_code='uz', is_premium=None, added_to_attachment_menu=None, can_join_groups=None, can_read_all_group_messages=None, supports_guest_queries=None, supports_inline_queries=None, can_connect_to_business=None, has_main_web_app=None, has_topics_enabled=None, allows_users_to_create_topics=None, can_manage_bots=None, supports_join_request_queries=None), sender_chat=None, sender_boost_count=None, sender_business_bot=None, sender_tag=None, guest_query_id=None, business_connection_id=None, forward_origin=None, is_topic_message=None, is_automatic_forward=None, reply_to_message=None, external_reply=None, quote=None, reply_to_story=None, reply_to_checklist_task_id=None, reply_to_poll_option_id=None, via_bot=None, guest_bot_caller_user=None, guest_bot_caller_chat=None, edit_date=None, has_protected_content=None, is_from_offline=None, is_paid_post=None, media_group_id=None, author_signature=None, paid_star_count=None, text='/start', entities=[MessageEntity(type='bot_command', offset=0, length=6, url=None, user=None, language=None, custom_emoji_id=None, unix_time=None, date_time_format=None)], link_preview_options=None, suggested_post_info=None, effect_id=None, animation=None, audio=None, document=None, live_photo=None, paid_media=None, photo=None, sticker=None, story=None, video=None, video_note=None, voice=None, caption=None, caption_entities=None, show_caption_above_media=None, has_media_spoiler=None, checklist=None, contact=None, dice=None, game=None, poll=None, venue=None, location=None, new_chat_members=None, left_chat_member=None, chat_owner_left=None, chat_owner_changed=None, new_chat_title=None, new_chat_photo=None, delete_chat_photo=None, group_chat_created=None, supergroup_chat_created=None, channel_chat_created=None, message_auto_delete_timer_changed=None, migrate_to_chat_id=None, migrate_from_chat_id=None, pinned_message=None, invoice=None, successful_payment=None, refunded_payment=None, users_shared=None, chat_shared=None, gift=None, unique_gift=None, gift_upgrade_sent=None, connected_website=None, write_access_allowed=None, passport_data=None, proximity_alert_triggered=None, boost_added=None, chat_background_set=None, checklist_tasks_done=None, checklist_tasks_added=None, direct_message_price_changed=None, forum_topic_created=None, forum_topic_edited=None, forum_topic_closed=None, forum_topic_reopened=None, general_forum_topic_hidden=None, general_forum_topic_unhidden=None, giveaway_created=None, giveaway=None, giveaway_winners=None, giveaway_completed=None, managed_bot_created=None, paid_message_price_changed=None, poll_option_added=None, poll_option_deleted=None, suggested_post_approved=None, suggested_post_approval_failed=None, suggested_post_declined=None, suggested_post_paid=None, suggested_post_refunded=None, video_chat_scheduled=None, video_chat_started=None, video_chat_ended=None, video_chat_participants_invited=None, web_app_data=None, reply_markup=None, rich_message=None, forward_date=None, forward_from=None, forward_from_chat=None, forward_from_message_id=None, forward_sender_name=None, forward_signature=None, user_shared=None) edited_message=None channel_post=None edited_channel_post=None business_connection=None business_message=None edited_business_message=None deleted_business_messages=None guest_message=None message_reaction=None message_reaction_count=None inline_query=None chosen_inline_result=None callback_query=None shipping_query=None pre_checkout_query=None purchased_paid_media=None poll=None poll_answer=None my_chat_member=None chat_member=None chat_join_request=None chat_boost=None removed_chat_boost=None managed_bot=None
+Traceback (most recent call last):
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\db.py", line 23, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\i18n.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PC.UZ\Desktop\cinema_bot\middlewares\block.py", line 33, in __call__
+    await event.answer(text)
+          ^^^^^^^^^^^^
+  File "C:\Users\PC.UZ\AppData\Roaming\Python\Python313\site-packages\pydantic\main.py", line 991, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'Update' object has no attribute 'answer'
+2026-07-08 14:05:45 | INFO     | aiogram.event | Update id=905840356 is handled. Duration 2 ms by bot id=8737871300
+2026-07-08 14:05:55 | INFO     | aiogram.event | Update id=905840357 is handled. Duration 161 ms by bot id=8737871300
+2026-07-08 14:05:57 | INFO     | aiogram.event | Update id=905840358 is handled. Duration 478 ms by bot id=8737871300
+2026-07-08 14:06:05 | INFO     | aiogram.event | Update id=905840359 is handled. Duration 158 ms by bot id=8737871300
+2026-07-08 14:06:08 | INFO     | aiogram.event | Update id=905840360 is handled. Duration 351 ms by bot id=8737871300
+2026-07-08 14:06:19 | INFO     | aiogram.event | Update id=905840361 is handled. Duration 480 ms by bot id=8737871300
+2026-07-08 14:36:55 | INFO     | __main__ | Baza ulandi: data/database.db
+2026-07-08 14:36:55 | INFO     | aiogram.dispatcher | Start polling
+2026-07-08 14:36:56 | INFO     | aiogram.dispatcher | Run polling for bot @uzbmediakino_bot id=8737871300 - 'UZB MEDIA'
+2026-07-08 14:37:01 | INFO     | aiogram.event | Update id=905840364 is handled. Duration 628 ms by bot id=8737871300
